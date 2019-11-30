@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica1RicardoLugo</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="login">LOGIN</string>
+    <string name="buscar">SEARCH</string>
+    <string name="pasardatos">PASAR PARAMETRO</string>
+    <string name="pasare">Escriba una frase aqui:</string>
+</resources>
